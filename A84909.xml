@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French mountebank, or An operator fit for these present times. Being a man of great travell and experience throughout most countries in Christendome, and to the great comfort and happinesse of this kingdome lately come to town, and is ready to shew himselfe a man of skill, in all particulars hereafter mentioned, to the distressed rich for their money, and to the poor for Gods sake.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84909</idno>
+            <idno type="STC">Wing F2190</idno>
+            <idno type="STC">Thomason E93_20</idno>
+            <idno type="STC">ESTC R11335</idno>
+            <idno type="EEBO-CITATION">99858997</idno>
+            <idno type="PROQUEST">99858997</idno>
+            <idno type="VID">155776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E93[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French mountebank, or An operator fit for these present times. Being a man of great travell and experience throughout most countries in Christendome, and to the great comfort and happinesse of this kingdome lately come to town, and is ready to shew himselfe a man of skill, in all particulars hereafter mentioned, to the distressed rich for their money, and to the poor for Gods sake.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Austin, and A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "1642 March. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155776:1" rendition="simple:additions"/>
+            <p>THE French Mountebank, OR AN OPERATOR Fit for theſe preſent Times.</p>
+            <p>Being a man of great travell and experience throughout moſt Countries in Chriſtendome, and to the great comfort and happineſſe of this Kingdome lately come to Town, and is ready to ſhew himſelfe a man of Skill, in all particulars hereafter mentioned, to the diſtreſſed Rich for their Money, and to the Poor for Gods ſake.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>1642 March .21</add> 
+               <hi>LONDON,</hi> Printed for R. Auſtin, and A. Coe. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155776:2"/>
+            <pb facs="tcp:155776:2"/>
+            <head>THE French Mountebank, OR An Operator fit for theſe Times.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Onducted by the hand of Providence, me arrived at <hi>Dover</hi> on the firſt of <hi>March,</hi> where me ſtayed two, tree, foure, and five dayes, exerciſing my faculty in a chari<g ref="char:EOLhyphen"/>table way among tee poore Seamans, tee reſidue of tee time before I came to this renowned City, me ſpent for tee moſt part in <hi>Canterbury,</hi> where by rea<g ref="char:EOLhyphen"/>ſon of tee great confluence of People, me was forced to erect a Stage, whereon to preſerve my own ſelfe from ſtifling, and the better to preſent my own ſelfe and my Rarities to the ſight and view of the multitude. Yet for for all this me could take very little money. Me appear<g ref="char:EOLhyphen"/>ed every day with my Dwarfe, my Hermaphrodite, and my Monkey, and entertained them <hi>all a mode de France,</hi> with Songs, Anticks, and Maſques, yet all would not not doe, me could ſee but little money.</p>
+            <lg>
+               <pb facs="tcp:155776:3"/>
+               <l>My ſelfe and my Hermaphrodite,</l>
+               <l>My Dwarf, and Monkey, all that night</l>
+               <l>Were very full of ſorrow:</l>
+               <l>We did deſpaire</l>
+               <l>To take the ayre</l>
+               <l>In publike on the morrow.</l>
+            </lg>
+            <lg>
+               <l>Yet once more we came forth againe,</l>
+               <l>And had our labour for our paine;</l>
+               <l>Though me pul'd out rare knacks,</l>
+               <l>All with one voice</l>
+               <l>Made a great noiſe,</l>
+               <l>And cri'd we were but Quacks.</l>
+            </lg>
+            <lg>
+               <l>Then down me laid my Velvet cloke,</l>
+               <l>And quickly pul'd out of my poke</l>
+               <l>Papers from ſev'rall lands;</l>
+               <l>Where they did ſee</l>
+               <l>Wonders of me,</l>
+               <l>Confirm'd by thouſand hands.</l>
+            </lg>
+            <lg>
+               <l>The ſilly people now beleeve,</l>
+               <l>And crafty me do laugh in ſleeve,</l>
+               <l>To ſee them ſo ſoon taken:</l>
+               <l>They money bring</l>
+               <l>To buy each thing,</l>
+               <l>Beſides Gooſe, Eggs, and Bacon.</l>
+            </lg>
+            <pb facs="tcp:155776:3"/>
+            <p> When me had vented all my Commodities, it was not ſafe for me to ſtay long there, yet me be ſure if tey do them no good, tey will do them no harme: And now me be newly come unto this famous City of London, and the City of London cannot but confeſſe themſelves very much beholden to me, that after ſo many yeares travaile, and experience in ſeverall Countries, both Chri<g ref="char:EOLhyphen"/>ſtian, and Pagan, me be pleaſed now in theſe latter, and moſt knowing daies of mine, to leave wandring, and re<g ref="char:EOLhyphen"/>ſide here with them.</p>
+            <p>The reaſon why me do ſhew mine ſelfe in print firſt is, becauſe me be tickled in the conceit by ſome, that this is the beſt way to make my ſelfe known unto you, and the ſetting up of Bils upon Poſts, is the tricks of tee Mountebanke, which me do abhorre.</p>
+            <p>Imprimis, me do meane to tell you what rare exploits me have done abroad.</p>
+            <lg>
+               <l>Me firſt in <hi>Paris</hi> up was bred,</l>
+               <l>A mender of the Maidenhead,</l>
+               <l>Where by mine Art I did reſtore,</l>
+               <l>The ſound, and eke the Pocky Whore:</l>
+               <l>And ſo ſalve up Virginity,</l>
+               <l>That none could any fault eſpie.</l>
+               <l>This cal'd me out of <hi>France</hi> to <hi>Spain,</hi>
+               </l>
+               <l>To ſtop up a new open'd Vein,</l>
+               <l>Me found the Lady ſore, and Stradling,</l>
+               <l>Yet made her go quick, without wadling;</l>
+               <l>With promiſes to make me great,</l>
+               <l>She would have kept me for this Feat:</l>
+               <l>But me cri'd Madam pardon me,</l>
+               <l>For me be bound for <hi>Tartarie,</hi>
+               </l>
+               <l>In haſte, to viſit the great <hi>Cham,</hi>
+               </l>
+               <pb facs="tcp:155776:4"/>
+               <l> And rectifie his crooked Hamme,</l>
+               <l>Beſides to ſhew a piece of Art,</l>
+               <l>Upon his <hi>Doxies</hi> lower part,</l>
+               <l>Me made their Tooles ſo well and right,</l>
+               <l>They got three Heires all in a night.</l>
+               <l>The next of my admired workes,</l>
+               <l>Was done among the cruell <hi>Turkes,</hi>
+               </l>
+               <l>Where to the Fame of me, and <hi>France,</hi>
+               </l>
+               <l>Me mended up a ſad miſchance,</l>
+               <l>The broken necke me firme did ſet,</l>
+               <l>Of their then Emperour <hi>Mahomet,</hi>
+               </l>
+               <l>And once me rais'd from death to life,</l>
+               <l>With Cordials, the <hi>Grand-Seigniors</hi> wife.</l>
+               <l>Thence me came into <hi>Germanie,</hi>
+               </l>
+               <l>Where were as cunning Knaves as I,</l>
+               <l>Such tricks me ſaw, that me did feare,</l>
+               <l>Mine for that place too ſhallow were.</l>
+               <l>From thence to England me ſoone come,</l>
+               <l>And here intend to make my home.</l>
+            </lg>
+            <p>And now Dukes, Earles, Lords, Biſhops, Knights, Deanes, Prebends, Gentlemen of Englant, &amp;c. and all others, High and Low, Rich and Poore, me do addreſſe mine ſelfe to you in all humility. For as much as me do underſtand that ſince this preſent Perliament, there hath been many ſtrange and unheard of diſeaſes, ſeizing upon certain ſorts of People, that were in perfect health before, and as yet remaining incureable, me being accuſtomed to cure ſuch diſeaſes, do undertake theſe Maladies follow<g ref="char:EOLhyphen"/>ing, and for my better proceeding in the cure when they come to my hands, me joyn to every Mallady ſome ſhort directions for their obſervation. Though a Parliament (as me do know) be <hi>ſalus Populi,</hi> the beſt meanes conduce<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:155776:4"/> to the health of this Nation, yet as in ill conditioned ſtomacks, oftentimes the beſt Cordials degenerate into an ill nature, and ſo become as offenſive to the Body, as the ill humours themſelves; even ſo this Parliament, (which God preſerve) though as well a temper'd Cordiall for this languiſhing Kingdome as ever was, yet to ſome ill humoured Members it hath proved Feavouriſh, and ſet them all on Fire, as <hi>Ieſuits, Papiſts,</hi> and <hi>Cavaliers:</hi> and to others as bad as poyſon, as to <hi>Church<g ref="char:punc">▪</g>Statiſts,</hi> and <hi>Mono<g ref="char:EOLhyphen"/>poliſts,</hi> thoſe Catterpillers of the Common-wealth, &amp;c. So then me being by my proffeſſion to cure all diſeaſes, muſt not be blamed, if me do name all indifferently, and me do ſee no reaſon why me ſhould be blamed for name<g ref="char:EOLhyphen"/>ing ſuch of theſe diſeaſes, which me do intend, and pro<g ref="char:EOLhyphen"/>miſe to cure, therefore <hi>Sans diſsimulation,</hi> or Feare, me do proceed.</p>
+            <lg>
+               <l>Imprimis, once more; if you know</l>
+               <l>Of any Citizen does owe</l>
+               <l>More then he can pay,</l>
+               <l>Though broken-backt, me him aſſure</l>
+               <l>Me have a medicine will him cure,</l>
+               <l>Let him break word or day.</l>
+            </lg>
+            <lg>
+               <l>Is any Biſhop with a paine</l>
+               <l>Much troubled in his head or braine,</l>
+               <l>And would be made lighter,</l>
+               <l>Me do ſuppoſe that the worſt harme</l>
+               <l>Comes from his being kept too warme,</l>
+               <l>Let him throw off his miter.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:155776:5"/>
+               <l>Hath any been a great whore-maſter,</l>
+               <l>And in his age now wants a plaiſter</l>
+               <l>That will do the deed?</l>
+               <l>Hath any Madam caught the pox</l>
+               <l>By daily tribute to her box?</l>
+               <l>She need not purge or bleed:</l>
+            </lg>
+            <lg>
+               <l>She ſhall regain her credit well</l>
+               <l>If ſhe obſerve what me do tell,</l>
+               <l>And then take what me give her:</l>
+               <l>No matter who dare to attaint her,</l>
+               <l>For there are wayes in age to Saint her,</l>
+               <l>Though ne're ſo lewd a liver.</l>
+            </lg>
+            <lg>
+               <l>Is any troubled with ſore eyes,</l>
+               <l>For loſing of Pluralities?</l>
+               <l>Me have a good water:</l>
+               <l>To cool them, and a moſt rare pill</l>
+               <l>To purge the humours that are ill,</l>
+               <l>And feed the greedy matter.</l>
+            </lg>
+            <p>Theſe and many more the Profeſſour hereof will faithfully performe, he beeing but newly come to town you cannot expect much from him, till longer obſerva<g ref="char:EOLhyphen"/>tion hath better acquainted him with the diſeaſes now raging, and ranging in this Land.</p>
+            <p>If any deſire to make uſe of him in any of theſe parti<g ref="char:EOLhyphen"/>culars aforenamed, or to make known any other Mal<g ref="char:EOLhyphen"/>ladie wherewith they are afflicted, let them repaire to the Phyſitiaus Colledge.</p>
+            <closer>Vive Le Roy.</closer>
+            <pb facs="tcp:155776:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
